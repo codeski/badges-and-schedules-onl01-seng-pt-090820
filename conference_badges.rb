@@ -20,23 +20,6 @@ def assign_rooms(attendees)
   return new_array2
 end
 
-#def printer(attendees)
-  #new_array3 = []
-  #new_array3 << assign_rooms(attendees) 
-  #new_array3 << batch_badge_creator
-#end
-  
-
-
-#def printer(attendees)
-   #assign_rooms(attendees).each do |name|
-    #puts assign_rooms(name)
-  #end
-  #batch_badge_creator(attendees).each do |name|
-    #puts batch_badge_creator(name)
-  #end
-#end
-
 def printer(attendees)
    assign_rooms(attendees).each do |name|
     puts name
