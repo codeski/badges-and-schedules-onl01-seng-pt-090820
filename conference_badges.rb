@@ -20,11 +20,11 @@ def assign_rooms(attendees)
   return new_array2
 end
 
-def printer(attendees)
-  new_array3 = []
-  new_array3 << assign_rooms(attendees) 
-  new_array3 << batch_badge_creator
-end
+#def printer(attendees)
+  #new_array3 = []
+  #new_array3 << assign_rooms(attendees) 
+  #new_array3 << batch_badge_creator
+#end
   
 
 
