@@ -24,7 +24,7 @@ end
   #new_array3 = []
   #new_array3 << assign_rooms(attendees) 
   #new_array3 << batch_badge_creator
-end
+#end
   
 
 
