@@ -21,8 +21,8 @@ def assign_rooms(attendees)
 end
 
 def printer(attendees)
-  return assign_rooms(x)
-  return batch_badge_creator(x)
+  return assign_rooms()
+  return batch_badge_creator()
   
 
 
