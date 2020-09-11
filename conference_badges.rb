@@ -23,6 +23,7 @@ end
 def printer(attendees)
   return assign_rooms()
   return batch_badge_creator()
+end
   
 
 
